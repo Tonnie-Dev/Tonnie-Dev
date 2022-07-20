@@ -1,7 +1,6 @@
 ![Android Developer](https://github.com/Tonnie-Dev/Tonnie-Dev/blob/master/Screenshot_2.png)
 
-#### Hello there 👋, Tonnie
-#### Android Developer
+#### Hello there 👋, I'm Tonnie
 
 I'm Tonnie from Kenya and I am in Android Development as a self-taught developer. I come from a medical
 background where I worked as a registered nurse.
@@ -13,6 +12,12 @@ background where I worked as a registered nurse.
 
 [![Anurag's github](https://github-readme-stats.vercel.app/api?username=Tonnie-Dev)](https//github.com/anuraghazra/github-readme-stats)
 
+## Skills and Experience
+
+* 🪲 Android
+* 🪁 Kotlin
+* ♨️ Java
+* 💎 Jetpack Compose
 
 Skills: KOTLIN/JAVA/JETPACK COMPOSE/RETROFIT/ROOM/TESTING/GIT/HTML
 
