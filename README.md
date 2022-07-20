@@ -21,7 +21,7 @@ background where I worked as a registered nurse.
 * 🖥️ HTML, CSS
 
 ## Examples of Work
-<img src="https://github.com/Tonnie-Dev/Tonnie-Dev/blob/master/astro_photos_gif.gif" width="256"
+<img src="https://github.com/Tonnie-Dev/Tonnie-Dev/blob/master/astro_photos_gif.gif" width="256"/>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Tonnie-Dev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/antony-muchiri/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/vfanadez)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/tonnie_dev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Tonnie_Dev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/7839518)  
 
