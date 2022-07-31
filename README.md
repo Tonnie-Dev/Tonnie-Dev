@@ -4,6 +4,23 @@
 
 I'm Tonnie from Kenya and I am in Android Development as a self-taught developer. I come from a medical
 background where I worked as a registered nurse.
+
+##Skills
+
+Skills:
+
+• Android Development (Native)
+
+• Having Experience in User Interface (UI), User Experience (UX).
+
+• Android Architecture Components (JetPack) with MVVM design pattern.
+
+• Great experience in Google Maps Integration, Google Maps API and Facebook API.
+
+• Strong experience with Rest APIs using Retrofit
+
+
+
 - 🔭 I’m currently working on My own projects 
 - 🌱 I’m currently learning Jetpack Compose 
 - 👯 I’m looking to work remotely
