@@ -28,6 +28,23 @@ I'm Tonnie, Android Development enthusiast and learner. I'm committed to improvi
 <a href="https://stackoverflow.com/"><img src="https://img.shields.io/badge/Stack Overflow-F58025?style=for-the-badge&logo=stack overflow&logoColor=black"></a>
   </p>
 
+## 🔎 Github Stats
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=tonnie-dev&show_icons=true&theme=highcontrast&count_private=true&hide_border=true" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=tonnie-dev&theme=highcontrast&hide_border=true" width = 400>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonnie-dev&hide=html,cmake,css,scss,powershell,assembly,procfile,shell,less,jupyter%20notebook&theme=highcontrast&langs_count=11&layout=compact&hide_border=true" width = 400>
+  
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=tonnie-dev&hide_border=true&theme=highcontrast&langs_count=9" width = 420 >
+
+</p>
+
+ <img src="https://activity-graph.herokuapp.com/graph?username=tonnie-dev&theme=gotham&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" width="100%"/>
+
+
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=tonnie-dev&label=Profile%20views&color=0e75b6&style=for-the-badge&color=000000" alt="tonnie-dev' profile views" />
+</p>
 
 
 ##Skills
