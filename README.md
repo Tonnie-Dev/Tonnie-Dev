@@ -13,7 +13,7 @@ I'm Tonnie, Android Development enthusiast and learner. I'm committed to improvi
  <a href="https://firebase.google.com/" target="_blank"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=orange"></a>
 <a href="https://groovy-lang.org/"><img src="https://img.shields.io/badge/groovy-4298B8?&style=for-the-badge&logo=apache groovy&logoColor=black"/></a>
 <a href="https://www.json.org/json-en.html"><img src="https://img.shields.io/badge/json-000000?style=for-the-badge&logo=json&logoColor=white"></a>
-<a href="https://www.r-project.org"><img src="https://img.shields.io/badge/r%20-%231572B6.svg?&style=for-the-badge&logo=r&logoColor=white"/></a>
+<a href="https://www.figma.com/"><img src="https://img.shields.io/badge/figma-F24E1E?&style=for-the-badge&logo=figma&logoColor=black"/></a>
 <a href="https://www.markdownguide.org/"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/></a>
 <a href="https://www.postman.com"><img src="https://img.shields.io/badge/postman%20-%23F05033.svg?&style=for-the-badge&logo=postman&logoColor=white"/></a>
 <a href="https://github.com"><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
