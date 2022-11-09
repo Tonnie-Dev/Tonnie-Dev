@@ -11,7 +11,7 @@ I'm Tonnie, Android Development enthusiast and learner. I'm committed to improvi
 <a href="https://www.oracle.com/ke/java/"><img src="./screenshots/java_slice.jpg" height ="28" width="110"></a>
 <a href="https://en.wikipedia.org/wiki/User_experience_design"><img src="./screenshots/ux_slice.png" height ="28" width="110"></a>
 <a href="https://groovy-lang.org/"><img src=img src="./screenshots/groovy_slice.png" height ="28" width="110"></a>
-<a href="https://powerbi.microsoft.com/en-au/"><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black"/></a>
+<a href="https://www.json.org/json-en.html"><img src="./screenshots/json_slice.png" height ="28" width="110"></a>
 <a href="https://www.postman.com"><img src="https://img.shields.io/badge/postman%20-%23F05033.svg?&style=for-the-badge&logo=postman&logoColor=white"/></a>
 <a href="https://github.com"><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://git-scm.com"><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/></a>
