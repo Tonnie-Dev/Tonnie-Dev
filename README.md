@@ -20,7 +20,7 @@ I'm Tonnie, Android Development enthusiast and learner. I'm committed to improvi
 <a href="https://git-scm.com"><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/></a>
  <a href="https://gradle.org/"><img src="https://img.shields.io/badge/gradle-02303A?&style=for-the-badge&logo=gradle&logoColor=yellowgreen"/></a>
 <a href="https://www.adobe.com/products/xd.html"><img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=for-the-badge&logo=adobe xd&logoColor=white"></a>
-<a href="https://ktor.io/"><img src="https://img.shields.io/badge/Ktor-2C2D72?style=for-the-badge&logo=kotlin&logoColor=lightpurple"></a>
+<a href="https://ktor.io/"><img src="https://img.shields.io/badge/Ktor-2C2D72?style=for-the-badge&logo=kotlin&logoColor=blueviolet"></a>
 <a href="https://www.sqlite.org/index.html"><img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"></a>
   </p>
 
