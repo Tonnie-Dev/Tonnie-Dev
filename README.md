@@ -2,7 +2,7 @@
 
 <h1 align="center">
 Howdy!
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+<img src="https://giphy.com/gifs/SS8ZlHa3ZA3ZaI71JG" width="28">
 </h1>
 
 I'm Tonnie, Android Development enthusiast and learner. I'm committed to improving my skills and write my Android Story!
