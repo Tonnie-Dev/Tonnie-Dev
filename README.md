@@ -1,9 +1,8 @@
-![Android Developer](https://github.com/Tonnie-Dev/Tonnie-Dev/blob/master/Screenshot_2.png)
 
-# Hello there 👋, I'm Tonnie
 
-I'm Tonnie from Kenya and I am in Android Development as a self-taught developer. I come from a medical
-background where I worked as a registered nurse.
+# Hi, Tonnie Here 👋 
+
+I'm Tonnie, Android Development enthusiast and learner. I'm committed to improving my skills and write my Android Story!
 
 ##Skills
 
