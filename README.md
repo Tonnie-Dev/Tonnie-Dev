@@ -6,7 +6,7 @@ I'm Tonnie, Android Development enthusiast and learner. I'm committed to improvi
 
 ##Skills
 
-Skills:
+
 
 • Android Development (Native)
 
