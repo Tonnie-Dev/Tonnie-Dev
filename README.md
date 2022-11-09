@@ -19,7 +19,7 @@ I'm Tonnie, Android Development enthusiast and learner. I'm committed to improvi
 <a href="https://github.com"><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://git-scm.com"><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/></a>
  <a href="https://gradle.org/"><img src="https://img.shields.io/badge/gradle-02303A?&style=for-the-badge&logo=gradle&logoColor=yellowgreen"/></a>
-<a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads"><img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"></a>
+<a href="https://www.adobe.com/products/xd.html"><img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=for-the-badge&logo=adobe xd&logoColor=white"></a>
 <a href="https://www.postgresql.org"><img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"></a>
 <a href="https://www.sqlite.org/index.html"><img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"></a>
   </p>
