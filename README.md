@@ -22,7 +22,7 @@ I'm Tonnie, Android Development enthusiast and learner. I'm committed to improvi
 <a href="https://www.adobe.com/products/xd.html"><img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=for-the-badge&logo=adobe xd&logoColor=white"></a>
 <a href="https://ktor.io/"><img src="https://img.shields.io/badge/Ktor-2C2D72?style=for-the-badge&logo=kotlin&logoColor=blueviolet"></a>
 <a href="https://www.sqlite.org/index.html"><img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"></a>
-<a href="https://stackoverflow.com/"><img src="https://img.shields.io/badge/Stack Overflow-#F58025?style=for-the-badge&logo=sqlite&logoColor=black"></a>
+<a href="https://stackoverflow.com/"><img src="https://img.shields.io/badge/Stack Overflow-F58025?style=for-the-badge&logo=stack overflow&logoColor=black"></a>
   </p>
 
 
