@@ -8,9 +8,9 @@ I'm Tonnie, Android Development enthusiast and learner. I'm committed to improvi
   
 ## ⚡ Technologies
  <a href="https://kotlinlang.org"><img src="https://img.shields.io/badge/Kotlin-2C2D72?&style=for-the-badge&logo=kotlin&logoColor=lightpurple" /> </a>
- <a href="https://kotlinlang.org"><img src="https://img.shields.io/badge/Java-F70000?&style=for-the-badge&logo=coffeescript&logoColor=lightpurple" /> </a>
+ <a href="https://www.oracle.com/ke/java/"><img src="https://img.shields.io/badge/Java-F70000?&style=for-the-badge&logo=coffeescript&logoColor=lightpurple" /> </a>
 <a href="https://www.android.com"><img src="https://img.shields.io/badge/Android-02303A.svg?style=for-the-badge&logo=android&logoColor=dark"></a>
- <a href="https://spring.io" target="_blank"><img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"></a>
+ <a href="https://firebase.google.com/" target="_blank"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"></a>
 <a href="https://www.python.org"><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=ffdd54"/></a>
 <a href="https://www.anaconda.com"><img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"></a>
 <a href="https://www.r-project.org"><img src="https://img.shields.io/badge/r%20-%231572B6.svg?&style=for-the-badge&logo=r&logoColor=white"/></a>
