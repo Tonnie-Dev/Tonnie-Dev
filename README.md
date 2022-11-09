@@ -2,7 +2,7 @@
 
 <h1 align="center">
 Howdy!
-<iframe src="https://giphy.com/embed/SS8ZlHa3ZA3ZaI71JG" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/SS8ZlHa3ZA3ZaI71JG">via GIPHY</a></p>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
 I'm Tonnie, Android Development enthusiast and learner. I'm committed to improving my skills and write my Android Story!
