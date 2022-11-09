@@ -34,7 +34,7 @@ I'm Tonnie, Android Development enthusiast and learner. I'm committed to improvi
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=tonnie-dev&theme=highcontrast&hide_border=true" width = 400>
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonnie-dev&hide=html,cmake,css,scss,powershell,assembly,procfile,shell,less,jupyter%20notebook&theme=highcontrast&langs_count=11&layout=compact&hide_border=true" width = 400>
   
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=tonnie-dev&hide_border=true&theme=highcontrast&langs_count=9" width = 420 >
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=tonnie_dev&hide_border=true&theme=highcontrast&langs_count=9" width = 420 >
 
 </p>
 
