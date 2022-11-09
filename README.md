@@ -46,21 +46,17 @@ I'm Tonnie, Android Development enthusiast and learner. I'm committed to improvi
   <img src="https://komarev.com/ghpvc/?username=tonnie-dev&label=Profile%20views&color=0e75b6&style=for-the-badge&color=000000" alt="tonnie-dev' profile views" />
 </p>
 
-
-
-
-
+## Goals
 
 - 🔭 I’m currently working on My own projects 
 - 🌱 I’m currently learning Jetpack Compose 
 - 👯 I’m looking to work remotely
 - 🥅 2022 Goals: Contribute to Open Source
-- 🚀 Fun fact: I love Space and AstoPhysics
-
+- 🚀 Fun fact: I love Space and AstroPhysics
 
 
 ## Examples of Work
-<img src="./astro_photos_gif.gif" width="256"/>
+<img src=".gifs/astro_photos_gif.gif" width="256"/>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Tonnie-Dev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/antony-muchiri/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/vfanadez)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/tonnie_dev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Tonnie_Dev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/7839518)  
 
