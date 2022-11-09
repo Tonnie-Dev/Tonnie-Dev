@@ -8,16 +8,14 @@ I'm Tonnie, Android Development enthusiast and learner. I'm committed to improvi
  <a href="https://kotlinlang.org"><img src="https://img.shields.io/badge/Kotlin-2C2D72?&style=for-the-badge&logo=kotlin&logoColor=lightpurple" /> </a>
 <a href="https://developer.android.com/"><img src="https://img.shields.io/badge/Android-02303A.svg?style=for-the-badge&logo=android&logoColor=dark"></a>
  <a href="https://square.github.io/retrofit/" target="_blank"><img src="./screenshots/retrofit_slice.png" height ="28" width="110"></a>
-<a href="https://www.oracle.com/ke/java/"><img src="./screenshots/json_slice.jpg" height ="28" width="110"></a>
+<a href="https://www.oracle.com/ke/java/"><img src="./screenshots/java_slice.jpg" height ="28" width="110"></a>
 <a href="https://en.wikipedia.org/wiki/User_experience_design"><img src="./screenshots/ux_slice.png" height ="28" width="110"></a>
 <a href="https://groovy-lang.org/"><img src=img src="./screenshots/groovy_slice.png" height ="28" width="110"></a>
 <a href="https://www.json.org/json-en.html"><img src="./screenshots/json_slice.png" height ="28" width="110"></a>
 <a href="https://www.postman.com"><img src="https://img.shields.io/badge/postman%20-%23F05033.svg?&style=for-the-badge&logo=postman&logoColor=white"/></a>
 <a href="https://github.com"><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://git-scm.com"><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/></a>
- <a href="https://www.javascript.com"><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>
-<a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads"><img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"></a>
-<a href="https://www.postgresql.org"><img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"></a>
+ 
 <a href="https://www.sqlite.org/index.html"><img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"></a>
   </p>
 
