@@ -14,11 +14,11 @@ I'm Tonnie, Android Development enthusiast and learner. I'm committed to improvi
 <a href="https://groovy-lang.org/"><img src="https://img.shields.io/badge/groovy-4298B8?&style=for-the-badge&logo=apache groovy&logoColor=black"/></a>
 <a href="https://www.json.org/json-en.html"><img src="https://img.shields.io/badge/json-000000?style=for-the-badge&logo=json&logoColor=white"></a>
 <a href="https://www.r-project.org"><img src="https://img.shields.io/badge/r%20-%231572B6.svg?&style=for-the-badge&logo=r&logoColor=white"/></a>
-<a href="https://www.markdownguide.org/"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=black"/></a>
+<a href="https://www.markdownguide.org/"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/></a>
 <a href="https://www.postman.com"><img src="https://img.shields.io/badge/postman%20-%23F05033.svg?&style=for-the-badge&logo=postman&logoColor=white"/></a>
 <a href="https://github.com"><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://git-scm.com"><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/></a>
- <a href="https://www.javascript.com"><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>
+ <a href="https://gradle.org/"><img src="https://img.shields.io/badge/gradle-02303A?&style=for-the-badge&logo=gradle&logoColor=yellowgreen"/></a>
 <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads"><img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"></a>
 <a href="https://www.postgresql.org"><img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"></a>
 <a href="https://www.sqlite.org/index.html"><img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"></a>
