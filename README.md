@@ -40,7 +40,12 @@ I'm Tonnie, Android Development enthusiast and learner. I'm committed to improvi
 
  <img src="https://activity-graph.herokuapp.com/graph?username=tonnie-dev&theme=gotham&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" width="100%"/>
 
+<p>
+<a href="https://github.com/johannchopin/stackoverflow-readme-profile">
+  <img src="https://stackoverflow-readme-profile.johannchopin.fr/profile/7839518?theme=monokai&website=true&location=true" alt="user:7839518's SO profile">
+</a>
 
+</p>
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=tonnie-dev&label=Profile%20views&color=0e75b6&style=for-the-badge&color=000000" alt="tonnie-dev' profile views" />
