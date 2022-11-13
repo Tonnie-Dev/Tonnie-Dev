@@ -44,6 +44,8 @@ I'm Tonnie, Android Development enthusiast and learner. I'm committed to improvi
 <a href="https://github.com/johannchopin/stackoverflow-readme-profile">
   <img src="https://stackoverflow-readme-profile.johannchopin.fr/profile/7839518?theme=monokai&website=true&location=true" alt="user:7839518's SO profile">
 </a>
+
+<img src="https://profile-counter.glitch.me/{tonnie-dev}/count.svg" alt="tonnie-dev :: Visitor's Count" />
   <img src="https://komarev.com/ghpvc/?username=tonnie-dev&label=Profile%20views&color=0e75b6&style=for-the-badge&color=000000" alt="tonnie-dev' profile views" />
 </p>
 
