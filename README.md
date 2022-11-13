@@ -7,6 +7,14 @@ Howdy!
 
 I'm Tonnie, Android Development enthusiast and learner. I'm committed to improving my skills and write my Android Story!
 
+<h6 align="center">
+Let me tell you a joke ... </h1>
+
+<p align = "center">
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+</p>
+
+
 <p align = "center">
   
 ## ⚡ Technologies
@@ -43,9 +51,10 @@ I'm Tonnie, Android Development enthusiast and learner. I'm committed to improvi
 <p align="right">
 <a href="https://github.com/johannchopin/stackoverflow-readme-profile">
   <img src="https://stackoverflow-readme-profile.johannchopin.fr/profile/7839518?theme=monokai&website=true&location=true" alt="user:7839518's SO profile">
-</a>
+</a> &nbsp; &nbsp; &nbsp;
 
 <img src="https://profile-counter.glitch.me/{tonnie-dev}/count.svg" alt="tonnie-dev :: Visitor's Count" />
+&nbsp; &nbsp; &nbsp;
   <img src="https://komarev.com/ghpvc/?username=tonnie-dev&label=Profile%20views&color=0e75b6&style=for-the-badge&color=000000" alt="tonnie-dev' profile views" />
 </p>
 
