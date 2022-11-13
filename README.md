@@ -7,8 +7,8 @@ Howdy!
 
 I'm Tonnie, Android Development enthusiast and learner. I'm committed to improving my skills and write my Android Story!
 
-<h6 align="center">
-Let me tell you a joke ... </h1>
+<h4 align="center">
+Let me tell you a joke ... </h4>
 
 <p align = "center">
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
@@ -48,7 +48,7 @@ Let me tell you a joke ... </h1>
 
 
 
-<p align="right">
+<p align="left">
 <a href="https://github.com/johannchopin/stackoverflow-readme-profile">
   <img src="https://stackoverflow-readme-profile.johannchopin.fr/profile/7839518?theme=monokai&website=true&location=true" alt="user:7839518's SO profile">
 </a> &nbsp; &nbsp; &nbsp;
