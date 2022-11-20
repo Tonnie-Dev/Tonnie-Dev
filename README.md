@@ -5,7 +5,7 @@ Howdy!
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
-I'm Tonnie, Android Development enthusiast and learner. I'm committed to improving my skills and write my Android Story!
+I'm Tonnie, Android Development enthusiast and learner. I'm committed to improving my skills and write stuff that run on mobile Android 😊
 
 <h4 align="center">
 Let me tell you a joke ... </h4>
