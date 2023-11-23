@@ -59,7 +59,7 @@ Let me tell you a joke ... </h4>
 </p>
 
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=tonnie-dev)](https://github.com/tonnie-dev/github-profile-trophy)
  <img src="https://activity-graph.herokuapp.com/graph?username=tonnie-dev&theme=gotham&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" width="100%"/>
 
 ## Goals
